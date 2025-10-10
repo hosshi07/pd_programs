@@ -14,16 +14,18 @@ windows11やmacOSと同じ**OS**となっております．PDでは何とWindows
 違いがわからない場合は**絶対パス**だけは覚えよう
   
 例えばprogramsフォルダのパスは
-Ubuntuの画面  
+Ubuntuの画面  CUIでの表示  
 ２段目に書いているものが**絶対パス**  
 ![ターミナル](image/CUI.png)
 
-エクスプローラーでいうと 青くなっている部分  
+エクスプローラーでいうと 青くなっている部分  GUI表示
 ![ＧＵＩ](image/GUI.png)
+
+上の部分を見るとしっかりと　home > user となっておりしっかりとCUI側と同じなのがわかる．  
 
 ### しかしここでうざいことが一つ  
 
-ふざけていることに普段使っているwindows11とPDでつかうUbuntuでパスの指定が少し違います．
+ふざけていることに普段使っているwindows11とPDでつかうUbuntuでパスの指定が少し違います．  
 windows11の場合  
 ```bash
 C:\Users\tossh\OneDrive\デスクトップ\exe>
