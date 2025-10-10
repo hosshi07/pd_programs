@@ -23,7 +23,8 @@ Traceback (most recent call last):
   File "C:\Users\koenu\AppData\Local\Programs\Python\Python39\lib\site-packages\usb\core.py", line 1309, in find  
 usb.core.NoBackendError: No backend available  
 ```
-usbのエラーが出ていることでしょう
+
+usbのエラーとなっている方はロボットに**書き込みをできません** <br>
 しかし大半の人間が解決できる方法を見つけました．
 ---
 ### System32のdllファイルの追加
@@ -55,7 +56,9 @@ ValueError: No DFU device found
 ```
 **ValueError**が出ればOKデス．本体さえあれば書き込めます．
 
-###　画像がないとわからないよというあなたへ
+
+### 画像がないとわからないよというあなたへ
+
 パスとかよくわかんないし怖いというあなたへ
 まずエクスプローラーを開きます  
 その後、windows（C：）を選択します．  
