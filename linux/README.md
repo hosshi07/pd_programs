@@ -16,10 +16,10 @@ windows11やmacOSと同じ**OS**となっております．PDでは何とWindows
 例えばprogramsフォルダのパスは
 Ubuntuの画面  
 ２段目に書いているものが**絶対パス**  
-![ターミナル](image/CUI.png)
+![ターミナル](../image/CUI.png)
 
 エクスプローラーでいうと 青くなっている部分  
-![ＧＵＩ](image/GUI.png)
+![ＧＵＩ](../image/GUI.png)
 
 ### しかしここでうざいことが一つ  
 
